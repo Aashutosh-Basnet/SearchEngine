@@ -1,1 +1,11 @@
 /settings.py
+
+__pycache__/
+
+.pyc
+
+/.idea
+
+blacklist.txt
+
+links.db
